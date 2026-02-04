@@ -27,20 +27,7 @@ J'ai développé un algorithme de classification basé sur trois étapes :
    - ❌ Fond de catalogue
 
 ------------------------------------------------------------------------
-3. TRANSPARENCE : USAGE DE L'IA & DÉFIS TECHNIQUES
-------------------------------------------------------------------------
-Ce projet a été réalisé en Python (Pandas/Matplotlib).
-Étant en phase d'apprentissage, j'ai rencontré des difficultés techniques 
-(installation des librairies, conflits de versions, syntaxe des graphiques).
-
-J'ai utilisé l'assistant IA (Gemini) comme "Mentor Technique" pour :
-- Résoudre les erreurs d'installation (pip install, environnement).
-- M'aider à écrire la syntaxe propre des boucles et du WordCloud.
-- Me permettre de me concentrer sur l'essentiel : la logique métier et 
-  l'analyse des résultats (décrites en section 2).
-
-------------------------------------------------------------------------
-4. INSTRUCTIONS D'INSTALLATION & LANCEMENT
+3. INSTRUCTIONS D'INSTALLATION & LANCEMENT
 ------------------------------------------------------------------------
 Pour exécuter l'analyse sur votre machine :
 
